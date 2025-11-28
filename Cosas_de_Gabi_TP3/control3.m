@@ -68,8 +68,7 @@ end
 
 %% Diseño de controladores por realimentación de estados
 % Se diseñan los controladores mediante la colocación de los polos
-% Nuestros polos del sistema original eran: -114, -1.44, -0.5+7.5j,
-% -0.5-7.5j
+% Nuestros polos del sistema original eran: 
 % Queremos buscar otros que mejoren un poco el desempeño del sistema
 % mediante su realimentacion por estados.
 
